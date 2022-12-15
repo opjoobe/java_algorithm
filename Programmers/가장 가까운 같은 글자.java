@@ -1,3 +1,4 @@
+// 프로그래머스 , 가장 가까운 같은 글자, Java
 import java.util.*;
 class Solution {
     public int[] solution(String s) {
